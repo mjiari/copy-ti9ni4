@@ -1,8 +1,8 @@
 //<![CDATA[
 $(document)['ready'](function () {
-        $('#qaisi1web-prot')['html']('<a href="http://ti9nifour.blogspot.com" rel="dofollow" target="_blank">تصميم : تقني فور</a>');
+        $('#ti9nifour-prot')['html']('<a href="http://ti9nifour.blogspot.com" rel="dofollow" target="_blank">تصميم : تقني فور</a>');
         setInterval(function () {
-                if (!$('#qaisi1web-prot:visible')['length']) {
+                if (!$('#ti9nifour-prot:visible')['length']) {
                   window['location']['href'] = 'http://ti9nifour.blogspot.com';
                 };
             }, 3000);
